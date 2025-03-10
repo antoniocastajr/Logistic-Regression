@@ -16,9 +16,9 @@ This repository presents a **custom implementation of Binary Logistic Regression
 ---
 
 ## 📂 Repository Structure  
-📜 **titanic_classifier.ipynb** → Jupyter Notebook where the **custom logistic regression** is implemented, trained, and evaluated.  
-📖 **Logistic Regression.pdf** → Theoretical background covering **logistic regression, cost function derivation, and optimization techniques**.  
-📊 **Titanic.csv** → Dataset used for training.  
+📜 **titanic_classifier.ipynb**: Jupyter Notebook where the **custom logistic regression** is implemented, trained, and evaluated.  
+📖 **Logistic Regression.pdf**: Theoretical background covering **logistic regression, cost function derivation, and optimization techniques**.  
+📊 **Titanic.csv**: Dataset used for training.  
 ---
 
 ## 📘 Theory Overview (From Logistic Regression.pdf)  
