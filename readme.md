@@ -37,6 +37,7 @@ This document serves as a **comprehensive introduction** to the mathematical fou
 
 ## 📊 Practical Implementation (From titanic_classifier.ipynb)  
 The Jupyter Notebook covers:
+
 1️⃣ **Data Preprocessing**: Handling missing values, feature encoding, and standardization.  
 2️⃣ **Custom Logistic Regression Model**: Implementing:
    - Sigmoid function
